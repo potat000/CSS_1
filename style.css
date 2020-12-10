@@ -1,0 +1,45 @@
+body {
+  width: 50%;
+  height: 50%;
+  border: 5px solid black;
+  border-style: dashed;
+ 
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+
+  padding:5% 5% 5% 5%;
+  
+
+
+
+}
+
+h1{
+	color: navy;
+   background-color: lightblue;
+   font-family: fantasy;
+   text-decoration: overline;
+   text-align: center;
+}
+h3{
+  color:red;
+  font-family: Microsoft JhengHei;
+  background-color: yellow;
+  text-align: center;
+}
+div{
+	font-size: 200%;
+    font-family: monospace;
+    font-weight: bolder;
+    background-color: aqua;
+    text-align: center;
+}
+.picture{
+	width: 175%;
+	height: 175%;
+	margin:2% 2% 2% 2%;
+	
+
+}
